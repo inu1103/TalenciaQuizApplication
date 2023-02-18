@@ -1,3 +1,5 @@
+Add "node_modules" folder with the above files from your local system (install node and find that folder in /usr/local/bin/node) before running the application.
+
 # TalenciaQuizApplication
 A web application to practice MCQs format quiz and improve general knowledge
 
