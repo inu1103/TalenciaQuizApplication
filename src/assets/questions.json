@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "The International Literacy Day is celebrated on",
+            "options": [{
+                    "text": "September 8",
+                    "correct": true
+                },
+                {
+                    "text": "November 28"
+                },
+                {
+                    "text": "August 7"
+                },
+                {
+                    "text": "September 22"
+                }
+            ],
+            "explanation": "To advance the literacy agenda towards a more literate and sustainable society"
+        },
+        {
+            "questionText": "What is the language of the Union Territory of India Lakshadweep",
+            "options": [{
+                    "text": "Tamil"
+                },
+                {
+                    "text": "Hindi"
+                },
+                {
+                    "text": "Telugu"
+                },
+                {
+                    "text": "Malayalam",
+                    "correct": true
+                }
+            ],
+            "explanation": "Malayalam language is officially spoken, and captial language is Kavaratti"
+        },
+        {
+            "questionText": "Ghototkach in Mahabharat was the son of",
+            "options": [{
+                    "text": "Arjuna"
+                },
+                {
+                    "text": "Bhima",
+                    "correct": true
+                },
+                {
+                    "text": "Duryodhana"
+                },
+                {
+                    "text": "Yudhishthir"
+                }
+            ],
+            "explanation": "Bhima was father of Ghototkach, and his mother was Hidimba"
+        },
+        {
+            "questionText": "Van Mahotsav was started by",
+            "options": [{
+                    "text": "Maharshi Karve"
+                },
+                {
+                    "text": "K.M. Munshi",
+                    "correct": true
+                },
+                {
+                    "text": "Bal Gangadhar Tilak"
+                },
+                {
+                    "text": "Sanjay Gandhi"
+                }
+            ],
+            "explanation": "Started in year 1950 by then Union Minister for Agriculture and Food KM Munshi"
+        },
+        {
+            "questionText": "The first month of the Indian national calendar is",
+            "options": [{
+                    "text": "Chaitra",
+                    "correct": true
+                },
+                {
+                    "text": "Ashadha"
+                },
+                {
+                    "text": "Vaishakha"
+                },
+                {
+                    "text": "Magha"
+                }
+            ],
+            "explanation": "The national calendar is based on the Saka Era"
+        },
+        {
+            "questionText": "Which of the following is not a dance from Kerala",
+            "options": [{
+                    "text": "Kathakali"
+                },
+                {
+                    "text": "Mohiniattam"
+                },
+                {
+                    "text": "Ottan Thullal"
+                },
+                {
+                    "text": "Yaksha Gana",
+                    "correct": true
+                }
+            ],
+            "explanation": "Yaksha Gana is the official dance form of Karnataka"
+        },
+        {
+            "questionText": "Which city of India was first of all affected by plague",
+            "options": [{
+                    "text": "Jaipur"
+                },
+                {
+                    "text": "Surat",
+                    "correct": true
+                },
+                {
+                    "text": "Kanpur"
+                },
+                {
+                    "text": "Jaipur"
+                }
+            ],
+            "explanation": "In September 1994, plague struck Surat, a city in the state of Gujarat in western India"
+        },
+        {
+            "questionText": "The 227 year old 'Nawab Saheb Ki Haveli' is Iocated at",
+            "options": [{
+                    "text": "Jaipur",
+                    "correct": true
+                },
+                {
+                    "text": "New Delhi"
+                },
+                {
+                    "text": "Hyderabad"
+                },
+                {
+                    "text": "Agra"
+                }
+            ],
+            "explanation": "Built during the reign of Sawai Jai Singh by his architect, Vidhyadhar Bhattacharya in 1772"
+        },
+        {
+            "questionText": "'Good Friday' is observed to commemorate the event of",
+            "options": [{
+                    "text": "crucification 'of Jesus Christ",
+                    "correct": true
+                },
+                {
+                    "text": "birth of Jesus Christ"
+                },
+                {
+                    "text": "birth of' St. Peter"
+                },
+                {
+                    "text": "rebirth of Jesus Christ"
+                }
+            ],
+            "explanation": "Christians annually observe the commemoration of the Crucifixion of Jesus Christ"
+        }
+    ]
+}
